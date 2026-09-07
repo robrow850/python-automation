@@ -1,0 +1,4 @@
+{"level":"INFO","message":"Started"}
+{"level":"WARN","message":"Retry scheduled"}
+{"level":"ERROR","message":"Sample failure"}
+not-json

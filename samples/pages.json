@@ -1,0 +1,18 @@
+[
+  {
+    "value": [
+      {
+        "id": "sample-1",
+        "displayName": "Sample User"
+      }
+    ]
+  },
+  {
+    "value": [
+      {
+        "id": "sample-2",
+        "displayName": "Sample Reviewer"
+      }
+    ]
+  }
+]
